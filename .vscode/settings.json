@@ -1,0 +1,5 @@
+{
+    "python.analysis.inlayHints.variableTypes": true,
+    "python.analysis.typeCheckingMode": "basic",
+    "editor.semanticHighlighting.enabled": true
+}
